@@ -2,10 +2,10 @@
 
 
 
-<img src="dol9hin.header" width="300" alt="Dolphin Banner">
+<img src="dol9hin.header.jpeg" width="400" alt="Dolphin Banner">
 <br/><br/>
 
-<img src="dol9hin.ushik" width="300" alt="dolphin image">
+<img src="dol9hin.ushik.jpeg" width="270" alt="dolphin image">
 <br/><br/>
 
 
