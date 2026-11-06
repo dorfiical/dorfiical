@@ -9,16 +9,11 @@
 <br/><br/>
 
 
-${textsf{\color{#f2b9d0}  non-binary
+${{\color{#f2b9d0}  non-binary
                     }}$
 
                     
-${textsf{\color{#bfe6ff}  aroace ⁠♡
 
-                    }}$
-${textsf{\color{#bfe6ff}  15+ .
-
-                    }}$
 
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
