@@ -14,9 +14,8 @@ ${{\color{#f2b9d0}  non-binary`
                 
               
               
-       ${{\color{#fcf9ee}  aroace`
-                    }}$
-  ${{\color{#bfe6ff}  actively ⁠♡
+       
+  ${{\color{#bfe6ff}  aroace ⁠♡
                     }}$
 
 
@@ -26,12 +25,11 @@ ${{\color{#f2b9d0}  non-binary`
     
 
 
-${{\color{#fcf9ee}  half-finnish
+  ${{\color{#fcf9ee}  finnish ♡
                     }}$     
 
            
-    ${{\color{#f2b9d0}  tagalog  `
-                      }}$               
+  
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
 
