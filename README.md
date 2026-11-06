@@ -24,3 +24,8 @@ $$
   
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
+
+
+<img src="IMG_20261106_181804.jpg" width="270" alt="dolphin image">
+<br/><br/>
+
