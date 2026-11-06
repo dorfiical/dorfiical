@@ -22,14 +22,13 @@ $$
 <img src="fin.landd.jpg" width="270" alt="dolphin image">
 <br/><br/>
 
-${{\color{#bfe6ff} my countryy
+${{\color{#bfe6ff} my countryy`
              }}$
              
-${{\color{#fcf9ee} HEADSHOT  
+${{\color{#bfe6ff} HEAT SHOT` ° !
              }}$
              
-             
-${{\color{#f2b9d0} ALL THOSE IMAGE NOT MINE 
+${{\color{#f2b9d0} ALL-THOSE-IMAGE-NOT MINE
              }}$
 
 
