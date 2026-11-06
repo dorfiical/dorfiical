@@ -28,7 +28,7 @@ ${{\color{#bfe6ff} my countryy`
 ${{\color{#bfe6ff} HEAT SHOT` ° !
              }}$
              
-${{\color{#f2b9d0} ALL-THOSE-IMAGE-NOT MINE
+${{\color{#f2b9d0} ALL-THOSE-IMAGE-NOT -MINE
              }}$
 
 
