@@ -9,42 +9,15 @@
 <br/><br/>
 
 
-<div align="center">
-  <table border="1">
-    <!-- Top Row -->
-    <tr>
-      <td align="left">$$\color{#f2b9d0}\text{non-binary}$$</td>
-      <td width="150"></td>
-      <td align="left">$$\color{#bfe6ff}\text{dol9hin}$$</td>
-    </tr>
-    <!-- Middle Row -->
-    <tr>
-      <td></td>
-      <td align="center">$$\color{#bfe6ff}\text{aroace }\heartsuit$$</td>
-      <td></td>
-    </tr>
-    <!-- Bottom Row -->
-    <tr>
-      <td align="left">$$\color{#fcf9ee}\text{finnish }\heartsuit$$</td>
-      <td></td>
-      <td align="left">$$\color{#f2b9d0}\text{𝓓𝓸𝓷𝓽\ 𝔂𝓸𝓾\ 𝓯𝓮𝓮𝓵\ 𝓰𝓾𝓲𝓵𝓽𝔂?}$$</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Decorative Symbols Header Above Links -->
-<p align="center">
-  𓊆ྀི<span style="color: #f2b9d0;">❤︎</span>𓊇ྀི
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  𓊆ྀི<span style="color: #bfe6ff;">❤︎</span>𓊇ྀི
-</p>
-
-<!-- Your Footer Links -->
-<p align="center">
-  <a href="https://github.com">my-town</a> | <a href="https://github.com">@dorfiical-contributors</a>
-</p>
+$$
+\begin{array}{lcl}
+{\color{#f2b9d0} \text{𝓃𝑜𝓃-𝒷𝒾𝓃𝒶𝓇𝓎}} & \hspace{6em} & {\color{#bfe6ff} \text{dol9hin}} \\
+\\
+& {\color{#bfe6ff} \text{aroace }\heartsuit} & \\
+\\
+{\color{#fcf9ee} \text{𝒻𝒾𝓃𝓃𝒾𝓈𝒽` }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{do u feel guilty?}} 
+\end{array}
+$$
 
 
            
