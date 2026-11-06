@@ -9,27 +9,18 @@
 <br/><br/>
 
 
-${{\color{#f2b9d0}  non-binary`
-                    }}$
-                
-              
-              
-       
-  ${{\color{#bfe6ff}  aroace ⁠♡
-                    }}$
+$$
+\begin{array}{lcl}
+{\color{#f2b9d0} \text{non-binary}} & \hspace{6em} & {\color{#bfe6ff} \text{dol9hin}} \\
+\\
+& {\color{#bfe6ff} \text{aroace }\heartsuit} & \\
+\\
+{\color{#fcf9ee} \text{finnish }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{do u feel guilty?}}
+\end{array}
+$$
 
-
-  ${{\color{#f2b9d0}  dont  u feel   guilty?`
-                    }}$
-                                   
-    
-
-
-  ${{\color{#fcf9ee}  finnish ♡
-                    }}$     
 
            
   
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
-
