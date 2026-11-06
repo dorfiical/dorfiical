@@ -15,7 +15,7 @@ $$
 \\
 & {\color{#bfe6ff} \text{aroace }\heartsuit} & \\
 \\
-{\color{#fcf9ee} \text{𝒻𝒾𝓃𝓃𝒾𝓈𝒽` }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{do u feel guilty?        ♡}} 
+{\color{#fcf9ee} \text{𝒻𝒾𝓃𝓃𝒾𝓈𝒽` }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{𝒹𝑜 u 𝒻𝑒𝑒𝓁 gu𝒾𝓉𝓉𝓎?}} 
 \end{array}
 $$
 
