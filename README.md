@@ -17,11 +17,19 @@ ${{\color{#f2b9d0}  non-binary`
 ${{\color{#bfe6ff}  actively ⁠♡
                     }}$
 
-${{\color{#f2b9d0}  don't u feel guilty?`
 
-                    }}$                    
-                
-               
+${{\color{#f2b9d0}  don't u feel guilty?`
+                    }}$
+                                   
+    
+
+
+${{\color{#fcf9ee}  half finnish
+                    }}$     
+
+           
+ ${{\color{#f2b9d0}  tagalog ✧ `
+                    }}$               
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
 
