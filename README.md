@@ -11,24 +11,24 @@
 
 $$
 \begin{array}{lcl}
-{\color{#f2b9d0} \text{𝓃𝑜𝓃-𝒷𝒾𝓃𝒶𝓇𝓎      ♡  }} & \hspace{6em} & {\color{#bfe6ff} \text{𝒹𝑜𝓁9𝒽𝒾𝓃𝓃}} \\
+{\color{#f2b9d0} \text{n𝑜n-b𝒾nar𝓎    ♡  }} & \hspace{6em} & {\color{#bfe6ff} \text{𝒹𝑜𝓁9𝒽𝒾𝓃𝓃}} \\
 \\
-& {\color{#bfe6ff} \text{aroace }\heartsuit} & \\
+& {\color{#bfe6ff} \text{𝒶roace }\heartsuit} & \\
 \\
-{\color{#fcf9ee} \text{𝒻𝒾𝓃𝓃𝒾𝓈𝒽` }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{𝒹𝑜 u 𝒻𝑒𝑒𝓁 gu𝒾𝓉𝓉𝓎?}} 
+{\color{#fcf9ee} \text{𝒻𝒾𝓃𝓃𝒾𝓈𝒽` }\heartsuit} & \hspace{2em} & {\color{#f2b9d0} \text{ 𝒹𝑜 you f𝑒el g𝓊il𝓉𝓎? }} 
 \end{array}
 $$
 
 <img src="fin.landd.jpg" width="270" alt="dolphin image">
 <br/><br/>
 
-${{\color{#bfe6ff} my countryy`
+${{\color{#bfe6ff} m𝓎-𝒸𝑜𝓊𝓉𝓇ry♡
              }}$
              
-${{\color{#bfe6ff} HEAT SHOT` ° !
+${{\color{#bfe6ff} H𝐸AD SH𝒪T` ° !
              }}$
              
-${{\color{#f2b9d0} ALL-THOSE-IMAGE-NOT -MINE
+${{\color{#f2b9d0} 𝒶𝓁𝓁 𝒾𝓂𝒶𝑔𝑒 𝓃𝑜𝓉 𝓂𝒾𝓃𝑒, 
              }}$
 
 
