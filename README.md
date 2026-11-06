@@ -11,14 +11,13 @@
 
 ${{\color{#f2b9d0}  non-binary
                     }}$
-${{\color{#f9fcf8}  aroace 
+                  
+ ${{\color{#fcf9ee}  aroace
                     }}$
-                    
-        ${{\color{#bfe6ff} what else do you see?
+${{\color{#bfe6ff}  actively 
                     }}$
-
-     ${{\color{#f2b9d0}  what else do u see?
-                    }}$         
+                
+               
                     
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
 
