@@ -25,7 +25,7 @@ $$
 ${{\color{#bfe6ff} m𝓎-𝒸𝑜𝓊𝓉𝓇ry♡
              }}$
              
-${{\color{#bfe6ff} H𝐸AD SH𝒪T` ° !
+${{\color{#fcf9ee} H𝐸AD SH𝒪T` ° !
              }}$
              
 ${{\color{#f2b9d0} 𝒶𝓁𝓁 𝒾𝓂𝒶𝑔𝑒 𝓃𝑜𝓉 𝓂𝒾𝓃𝑒, 
