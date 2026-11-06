@@ -25,7 +25,7 @@ $$
 ${{\color{#bfe6ff} my countryy
              }}$
              
-${{\color{#fcf9ee} HEADSHOT /  by rubiruuby  
+${{\color{#fcf9ee} HEADSHOT  
              }}$
              
              
