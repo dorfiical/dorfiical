@@ -24,11 +24,13 @@ $$
 
 ${{\color{#bfe6ff} my countryy
              }}$
-${{\color{#fcf9ee} HEADSHOT ! 
+             
+${{\color{#fcf9ee} HEADSHOT /  by rubiruuby  
              }}$
              
              
-
+${{\color{#f2b9d0} ALL THOSE IMAGE NOT MINE 
+             }}$
 
 
 [@my-town](https://github.com) | [@dorfiical-contributors](https://github.com)
