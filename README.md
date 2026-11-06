@@ -11,7 +11,7 @@
 
 $$
 \begin{array}{lcl}
-{\color{#f2b9d0} \text{non-binary}} & \hspace{6em} & {\color{#bfe6ff} \text{dol9hin}} \\
+{\color{#f2b9d0} \text{non-binary}} & \hspace{6em} & {\color{#fcf9ee} \text{dol9hin}} \\
 \\
 & {\color{#bfe6ff} \text{aroace }\heartsuit} & \\
 \\
