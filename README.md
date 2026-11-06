@@ -9,13 +9,17 @@
 <br/><br/>
 
 
-${{\color{#f2b9d0}  non-binary
+${{\color{#f2b9d0}  non-binary`
                     }}$
                   
- ${{\color{#fcf9ee}  aroace
+ ${{\color{#fcf9ee}  aroace`
                     }}$
-${{\color{#bfe6ff}  actively 
+${{\color{#bfe6ff}  actively ⁠♡
                     }}$
+
+${{\color{#f2b9d0}  don't u feel guilty?`
+
+                    }}$                    
                 
                
                     
