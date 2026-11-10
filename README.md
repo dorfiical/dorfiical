@@ -8,6 +8,8 @@
 <img src="dol9hin.ushik.jpeg" width="270" alt="dolphin image">
 <br/><br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2B9D0&width=435&lines=It's+just+like+seeing+her.;for+the+first+time.;again)](https://git.io/typing-svg)
+
 
 $$
 \begin{array}{lcl}
