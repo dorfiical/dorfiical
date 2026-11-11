@@ -21,8 +21,7 @@ $$
 \end{array}
 $$
 
-<img src="fin.landd.jpg" width="270" alt="dolphin image">
-<br/><br/>
+
 
 ${{\color{#bfe6ff} ♡
              }}$
