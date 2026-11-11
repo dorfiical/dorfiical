@@ -8,12 +8,12 @@
 <img src="dol9hin.ushik.jpeg" width="270" alt="dolphin image">
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCF9EE&width=435&lines=It's+just+like+seeing+her.;for+the+first+time.;again)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BFE6FF&width=435&lines=It's+just+like+seeing+her.;for+the+first+time.;again)](https://git.io/typing-svg)
 
 
 $$
 \begin{array}{lcl}
-{\color{#f2b9d0} \text{n𝑜n-b𝒾nar𝓎    ♡  }} & \hspace{6em} & {\color{#bfe6ff} \text{𝒹𝑜𝓁9𝒽𝒾𝓃𝓃}} \\
+{\color{#f2b9d0} \text{n𝑜n-b𝒾nar𝓎    ♡  }} & \hspace{6em} & {\color{#fcf9ee} \text{𝒹𝑜𝓁9𝒽𝒾𝓃𝓃}} \\
 \\
 & {\color{#bfe6ff} \text{𝒶roace }\heartsuit} & \\
 \\
