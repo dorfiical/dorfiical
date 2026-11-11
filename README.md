@@ -8,7 +8,7 @@
 <img src="dol9hin.ushik.jpeg" width="270" alt="dolphin image">
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2B9D0&width=435&lines=It's+just+like+seeing+her.;for+the+first+time.;again)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCF9EE&width=435&lines=It's+just+like+seeing+her.;for+the+first+time.;again)](https://git.io/typing-svg)
 
 
 $$
@@ -24,13 +24,13 @@ $$
 <img src="fin.landd.jpg" width="270" alt="dolphin image">
 <br/><br/>
 
-${{\color{#bfe6ff} m𝓎-𝒸𝑜𝓊𝓉𝓇ry♡
+${{\color{#bfe6ff} ♡
              }}$
              
 ${{\color{#fcf9ee} H𝐸AD SH𝒪T` ° !
              }}$
              
-${{\color{#f2b9d0} 𝒶𝓁𝓁 𝒾𝓂𝒶𝑔𝑒 𝓃𝑜𝓉 𝓂𝒾𝓃𝑒, 
+${{\color{#f2b9d0} 𝒶𝓁𝓁-𝒾𝓂𝒶𝑔𝑒-𝓃𝑜𝓉+𝓂𝒾𝓃𝑒, 
              }}$
 
 
